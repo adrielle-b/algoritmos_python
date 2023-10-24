@@ -7,4 +7,3 @@ def find_duplicate(nums):
             return num
         num_repet.add(num)
     return False
-
