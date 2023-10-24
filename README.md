@@ -1,10 +1,21 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+<div align="center">
+  <h1>Algoritmos</h1>
+</div>
+
+## Descrição
+
+Neste projeto foram desenvolvidos funções que resolvem problemas e otimizam algoritmos de busca e ordenação, de forma recursiva ou iterativa.
+Além disso, foi utilizada a ferramenta de testes automatizados, o Pytest, para criar os testes da função de criptografia.
+
+ ## :point_right: Desafios
+ - Encontrar o horário de mais engajamento entre estudantes
+ - Testar a função de criptografia
+ - Verificar palíndromos de forma recursiva e também iterativa
+ - Verificar anagramas
+ - Encontrar números repetidos
+
+## :snake: Tecnologias Utilizadas
+- Python
+- Pytest
+- Ambiente Virtual venv
+
