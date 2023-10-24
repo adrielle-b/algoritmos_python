@@ -1,6 +1,7 @@
 from challenges.challenge_encrypt_message import encrypt_message
 import pytest
 
+
 def test_encrypt_message():
     assert encrypt_message("senha", 2) == "ahn_es"
     assert encrypt_message("senha", 3) == "nes_ah"
