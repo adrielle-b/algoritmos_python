@@ -8,7 +8,7 @@ Neste projeto foram desenvolvidos funções que resolvem problemas e otimizam al
 Além disso, foi utilizada a ferramenta de testes automatizados, o Pytest, para criar os testes da função de criptografia.
 
  ## :point_right: Desafios
- - Encontrar o horário de mais engajamento entre estudantes
+ - Verificar a maior quantidade de alunos online em intervalos de tempo de estudo (horário de mais engajamento)
  - Testar a função de criptografia
  - Verificar palíndromos de forma recursiva e também iterativa
  - Verificar anagramas
